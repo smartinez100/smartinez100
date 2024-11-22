@@ -3,7 +3,7 @@
 
 **smartinez100/smartinez100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+Editing the README file. to add some details about the project description!
 
 - 🔭 I’m currently working on ... Breaking into tech.
 - 🌱 I’m currently learning ...Coding/Git/GitHub.
