@@ -1,6 +1,4 @@
-
-
 def git_operation()
-	print("I am adding example.py to remote repository.")
+	print("I aam adding example.py to remote repository.")
 	git_operation()
 
