@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on ... Breaking into tech.
-- 🌱 I’m currently learning ...Coding/Git/GitHub.
-- 👯 I’m looking to collaborate on ...Projects for resume/learning.
-- 🤔 I’m looking for help with ... Anyone and Anybody
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Independent projects.
+- 🌱 I’m currently learning ... AWS Solutions Architect- Associates.
+- 👯 I’m looking to collaborate on ... Projects for resume/learning.
+- 🤔 I’m looking for help with ... Building my reume.
+- ⚡ Fun fact: ... I love mainstream anime.
 
